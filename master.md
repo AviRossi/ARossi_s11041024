@@ -1,4 +1,2 @@
-Topic : Alzheimer's Disease Dementia is a general term used to describe a significant decline in cognitive ability that interferes with a person's activities of daily living. 
-Alzheimer disease (AD) is the most prevalent type of dementia, accounting for at least two-thirds of cases in individuals aged 65 and older.
-References Kumar A, Sidhu J, Lui F, et al. Alzheimer Disease. [Updated 2024 Feb 12]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-.
-Available from: https://www.ncbi.nlm.nih.gov/books/NBK499922/
+Topic : Addiction- The gap between the theoretical Biopsychosocial and Evolutionary Model.
+References: Hunt, A. (2014). Expanding the biopsychosocial model: The active reinforcement model of addiction. Graduate Student Journal of Psychology, 15, 57-69.
